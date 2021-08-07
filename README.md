@@ -1,4 +1,4 @@
-# scala-web-gradle-spring-thyme-secure-3des-encrypt-scrypt-encoded
+# scala-web-gradle-spring-thyme-register-3des-encrypt-scrypt-encoded
 
 ## Description
 A springboot secure web app with thymeleaf support.
